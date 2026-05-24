@@ -1,0 +1,68 @@
+{
+  "deliveries": [
+    {
+      "customer_name": "Arun Krishnan",
+      "address": "Indiranagar, Bengaluru, Karnataka 560038, India",
+      "contact_number": "+91 9876500001",
+      "notes": "Leave with security",
+      "latitude": 12.9784,
+      "longitude": 77.6408
+    },
+    {
+      "customer_name": "Meera Pillai",
+      "address": "Koramangala, Bengaluru, Karnataka 560034, India",
+      "contact_number": "+91 9876500002",
+      "notes": "Apartment 4B",
+      "latitude": 12.9352,
+      "longitude": 77.6245
+    },
+    {
+      "customer_name": "Sanjay Bhat",
+      "address": "Whitefield, Bengaluru, Karnataka 560066, India",
+      "contact_number": "+91 9876500003",
+      "notes": "Tech park gate 2",
+      "latitude": 12.9698,
+      "longitude": 77.7500
+    },
+    {
+      "customer_name": "Pooja Hegde",
+      "address": "Jayanagar, Bengaluru, Karnataka 560041, India",
+      "contact_number": "+91 9876500004",
+      "notes": "Ring bell",
+      "latitude": 12.9299,
+      "longitude": 77.5850
+    },
+    {
+      "customer_name": "Kiran Rao",
+      "address": "Malleshwaram, Bengaluru, Karnataka 560003, India",
+      "contact_number": "+91 9876500005",
+      "notes": "Morning only",
+      "latitude": 13.0035,
+      "longitude": 77.5680
+    },
+    {
+      "customer_name": "Divya Shetty",
+      "address": "HSR Layout, Bengaluru, Karnataka 560102, India",
+      "contact_number": "+91 9876500006",
+      "notes": "Call first",
+      "latitude": 12.9116,
+      "longitude": 77.6474
+    },
+    {
+      "customer_name": "Vinod Kumar",
+      "address": "Rajajinagar, Bengaluru, Karnataka 560010, India",
+      "contact_number": "+91 9876500007",
+      "notes": "Fragile",
+      "latitude": 12.9950,
+      "longitude": 77.5555
+    },
+    {
+      "customer_name": "Swathi Nair",
+      "address": "Electronic City, Bengaluru, Karnataka 560100, India",
+      "contact_number": "+91 9876500008",
+      "notes": "IT park",
+      "latitude": 12.8399,
+      "longitude": 77.6770
+    }
+  ]
+}
